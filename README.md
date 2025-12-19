@@ -8,7 +8,7 @@ Mission: Help CS students discover and engage with campus events, see which frie
 
 Inspiration
 
-The app was inspired by attending SFU Surge's pre-hack resume workshop, where Ariel Tyson, Martin Wong, and Mahim Chaudhary helped reconstruct resumes. This experience highlighted the value of campus resources and the challenge of discovering them when information is scattered across different mediums.
+The app was inspired by attending SFU Surge's pre-hack resume workshop, where the value of on campus events became apparent when I got the chance to sit with my upperclassmen and reconstruct my resume from scratch, receiving feedback from people with experience, knowledge and a desire to share it. I the CS community at SFU can greatly benefit from staying up to date with all of the best campus events.
 
 Core Features
 

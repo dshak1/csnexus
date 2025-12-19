@@ -1,7 +1,6 @@
  CS Nexus - Campus CS Events Discovery App
  ## Tech Stack
 
-<div align="center">
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0066CC?style=for-the-badge&logo=swift&logoColor=white)

@@ -8,6 +8,9 @@
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud_Sync-4285F4?style=for-the-badge&logo=icloud&logoColor=white)
 
+![app demo](./appdemo.png)
+
+
 Overview
 
 CS Nexus is a campus-focused app that centralizes computer science events and resources for students. Built during SFU Surge's StormHacks 2025, it addresses the challenge of scattered CS event information across multiple platforms (Instagram, LinkedIn, email, Discord, posters, etc.) by providing a unified discovery experience.
